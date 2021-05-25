@@ -1,27 +1,74 @@
-# SystemOS
+# Curso Full Stack Developer - Projeto System OS
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/oraculocs/os-front-angular/blob/master/LICENSE) 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
+# Sobre o projeto
 
-## Development server
+https://oraculocs.github.io/os-front-angular/os-front-angular/
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Aplicação Web completa (CREATE, READ, UPDATE e DELETE) de um sistema simples de Gerenciamento de Ordens de Serviço.
 
-## Code scaffolding
+VISÃO TÉCNICA - BACK END:
+API Rest usando Java com Spring Boot 2.x.x e banco de dados MySQL. Vamos usar JPA com Hibernate Vamos aprender também validação de dados, tratamento de exceções, uso adequado do protocolo HTTP no padrão REST e muito mais.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Versão: Spring Boot 2.3.x
 
-## Build
+VISÃO TÉCNICA - FRONT END:
+Além do back end, também vamos desenvolver o front end utilizando Angular 11. Vamos explorar a arquitetura MVC do Angular, os componentes visuais do Angular Material, Angular reactive forms, navegação.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Versão: Angular 11
 
-## Running unit tests
+## Layout Web
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Web 1](https://github.com/oraculocs/assets/blob/master/OS/inicio.JPG)
 
-## Running end-to-end tests
+![Web 2](https://github.com/oraculocs/assets/blob/master/OS/menu.JPG)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice.
+![Web 3](https://github.com/oraculocs/assets/blob/master/OS/home.JPG)
 
-## Further help
+![Web 4](https://github.com/oraculocs/assets/blob/master/OS/criarCliente.JPG)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Web 5](https://github.com/oraculocs/assets/blob/master/OS/editarCliente.JPG)
+
+![Web 6](https://github.com/oraculocs/assets/blob/master/OS/tableCliente.JPG)
+
+![Web 7](https://github.com/oraculocs/assets/blob/master/OS/deletarCliente.JPG)
+
+![Web 8](https://github.com/oraculocs/assets/blob/master/OS/criarTecnico.JPG)
+
+![Web 10](https://github.com/oraculocs/assets/blob/master/OS/tableTecnico.JPG)
+
+![Web 11](https://github.com/oraculocs/assets/blob/master/OS/editarTecnico.JPG)
+
+![Web 12](https://github.com/oraculocs/assets/blob/master/OS/deletarTecnico.JPG)
+
+![Web 13](https://github.com/oraculocs/assets/blob/master/OS/tableOS.JPG)
+
+![Web 14](https://github.com/oraculocs/assets/blob/master/OS/criarOS.JPG)
+
+![Web 15](https://github.com/oraculocs/assets/blob/master/OS/editarOS.JPG)
+
+![Web 16](https://github.com/oraculocs/assets/blob/master/OS/tiposOS.JPG)
+
+# Tecnologias utilizadas
+## Back end
+- Java 11
+- Spring Boot
+- JPA / Hibernate
+- Maven
+- Protocolo HTTP no padrão REST
+## Front end
+- HTML / CSS / JS / TypeScript
+- Angular 11
+- Angular Material
+## Implantação em produção
+- Back end: Heroku
+- Front end web: Github Pages
+- Banco de dados: MySQL
+
+# Autor
+
+Carlos Augusto de Oliveira
+- https://www.linkedin.com/in/carlos-augusto-47a1764a/
+- https://oraculocs.github.io
+
+

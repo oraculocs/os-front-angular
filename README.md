@@ -13,7 +13,7 @@ API Rest usando Java com Spring Boot 2.x.x e banco de dados MySQL. JPA com Hiber
 Versão: Spring Boot 2.3.x
 
 VISÃO TÉCNICA - FRONT END:
-Além do back end, também vamos desenvolver o front end utilizando Angular 11. Arquitetura MVC do Angular, os componentes visuais do Angular Material, Angular reactive forms, navegação.
+front end utilizando Angular 11. Arquitetura MVC do Angular, os componentes visuais do Angular Material, Angular reactive forms, navegação.
 
 Versão: Angular 11
 

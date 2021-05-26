@@ -8,12 +8,12 @@ https://oraculocs.github.io/os-front-angular
 Aplicação Web completa (CREATE, READ, UPDATE e DELETE) de um sistema simples de Gerenciamento de Ordens de Serviço.
 
 VISÃO TÉCNICA - BACK END:
-API Rest usando Java com Spring Boot 2.x.x e banco de dados MySQL. Vamos usar JPA com Hibernate Vamos aprender também validação de dados, tratamento de exceções, uso adequado do protocolo HTTP no padrão REST e muito mais.
+API Rest usando Java com Spring Boot 2.x.x e banco de dados MySQL. JPA com Hibernate e também validação de dados, tratamento de exceções, uso adequado do protocolo HTTP no padrão REST e muito mais.
 
 Versão: Spring Boot 2.3.x
 
 VISÃO TÉCNICA - FRONT END:
-Além do back end, também vamos desenvolver o front end utilizando Angular 11. Vamos explorar a arquitetura MVC do Angular, os componentes visuais do Angular Material, Angular reactive forms, navegação.
+Além do back end, também vamos desenvolver o front end utilizando Angular 11. Arquitetura MVC do Angular, os componentes visuais do Angular Material, Angular reactive forms, navegação.
 
 Versão: Angular 11
 

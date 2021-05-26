@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://oraculocs.github.io/os-front-angular/os-front-angular/
+https://oraculocs.github.io/os-front-angular
 
 Aplicação Web completa (CREATE, READ, UPDATE e DELETE) de um sistema simples de Gerenciamento de Ordens de Serviço.
 
